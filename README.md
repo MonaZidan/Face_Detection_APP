@@ -1,4 +1,4 @@
 # Face_Detection_APP
  This project is a Face Detection Application built using Python, OpenCV, MediaPipe, and Streamlit. It allows users to upload an image and detect faces using two different methods: OpenCV's Haar Cascade Classifier and Google's MediaPipe Face Detection. The application provides a user-friendly interface to compare the results of both methods side by side.
 
- Upload an image and let face detection app quickly highlight faces using techniques like OpenCV and MediaPipe. Try [Face Detection Application](https://face-detection-application.streamlit.app/) now to see the magic in action!
+ > Try [Face Detection Application](https://face-detection-application.streamlit.app/) now to see the magic in action!
